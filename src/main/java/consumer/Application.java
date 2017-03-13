@@ -31,7 +31,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author matt
  *
  */
-@SpringBootApplication
+@SpringBootApplication // TODO figure out what this annotation does
 public class Application {
 
   public static void main(String[] args) {
